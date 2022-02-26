@@ -1,0 +1,242 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Good old cause explained, revived, &amp; asserted and the Long-Parliament vindicated in a remonstrance to His Excellency the Lord Fleetwood and councel of officers : being the sense and earnest desires of many thousands honest well-affected persons of the army and people in this nation : with several expedients humbly offered, 1. for the settling and securing of our civil and spiritual rights and freedoms, and the publique peace of the nation, 2. for the speedy raising of moneys to pay the arrears of the army and navy, and future supply of other publique ingagements, as the most probable and visible way and means now under God left to accomplish the same, and preserves us from that inevitable confusion and destruction which hangs over and threatens the three nations.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70119</idno>
+            <idno type="STC">Wing G1078</idno>
+            <idno type="STC">ESTC R7873</idno>
+            <idno type="EEBO-CITATION">12815587</idno>
+            <idno type="OCLC">ocm 12815587</idno>
+            <idno type="VID">94142</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70119)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94142)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 983:4 or 1011:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Good old cause explained, revived, &amp; asserted and the Long-Parliament vindicated in a remonstrance to His Excellency the Lord Fleetwood and councel of officers : being the sense and earnest desires of many thousands honest well-affected persons of the army and people in this nation : with several expedients humbly offered, 1. for the settling and securing of our civil and spiritual rights and freedoms, and the publique peace of the nation, 2. for the speedy raising of moneys to pay the arrears of the army and navy, and future supply of other publique ingagements, as the most probable and visible way and means now under God left to accomplish the same, and preserves us from that inevitable confusion and destruction which hangs over and threatens the three nations.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1659?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing and NUC pre-1956 imprints.</note>
+                  <note>This item appears at reel 983:4 and at reel 1011:5.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fleetwood, Charles, d. 1692.</term>
+               <term>England and Wales. --  Parliament.</term>
+               <term>Great Britain --  History --  Puritan Revolution, 1642-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:94142:1"/>
+            <head>
+               <hi>The Good Old Cauſe</hi> Explained, Revived, <hi>&amp;</hi> Aſſerted. <hi>AND The</hi> Long-Parliament <hi>Vindicated. IN A</hi> Remonſtrance <hi>to his</hi> Excellency <hi>the Lord</hi> Fleetwood <hi>and</hi> Councel of Officers. <hi>Being the Senſe and earneſt Deſires of many thouſands</hi> honeſt well-affected <hi>Perſons of the</hi> Army <hi>and</hi> People <hi>in this</hi> Nation. <hi>With ſeveral</hi> Expedients <hi>humbly offered;</hi>
+               <list>
+                  <item>
+                     <hi>1.</hi> For the ſettling and ſecuring of our <hi>Civil</hi> and <hi>Spiritual Rights and Freedoms,</hi> and the publique <hi>Peace</hi> of the <hi>Nation.</hi>
+                  </item>
+                  <item>
+                     <hi>2.</hi> For the ſpeedy raiſing of Moneys to pay the <hi>Arrears</hi> of the <hi>Army</hi> and <hi>Navy,</hi> and future ſupply of other <hi>Publique Ingagements,</hi> as the moſt probable and viſible Way and Means now under <hi>God</hi> left to accompliſh the ſame; And preſerve us from that inevi<g ref="char:EOLhyphen"/>table <hi>Confuſion</hi> and <hi>Deſtruction</hi> which hangs over and threa<g ref="char:EOLhyphen"/>tens the three <hi>Nations.</hi>
+                  </item>
+               </list>
+            </head>
+            <p>THe things contended for with the late <hi>King,</hi> in the late <hi>Warr,</hi> (wherein there was great effuſion of <hi>Chriſtian bloud,</hi> and vaſte <hi>Treaſure</hi> ſpent) Conſiſted principally of theſe particulars:</p>
+            <p n="1">1. That our <hi>Perſons</hi> and <hi>Eſtates</hi> might not be diſpoſed of at the <hi>Arbitrary will and pleaſure</hi> of the <hi>King</hi> and his evill <hi>Counſellours,</hi> and other his looſe <hi>adherents;</hi> But ſecured and protected according to <hi>Magna Charta,</hi> the <hi>Petition of Right,</hi> and other wholeſome <hi>Lawes</hi> made for the Defence and Safety of the People, againſt <hi>Tyranny, Oppreſsion,</hi> and <hi>Arbitrarineſs,</hi> which in thoſe dayes were too often exerciſed.</p>
+            <p n="2">
+               <pb n="2" facs="tcp:94142:2"/>2. To have our <hi>Spiritual Rights and Freedoms</hi> ſecured unto us; and the <hi>honeſt conſcientious people</hi> preſerved from the <hi>Rage</hi> and <hi>Fury</hi> of the <hi>Biſhops</hi> and their <hi>adherents,</hi> who grievouſly <hi>perſecuted</hi> many for <hi>differences</hi> in Judgment in point of <hi>Form</hi> and <hi>Ceremonies,</hi> and for not conforming to their <hi>Canons</hi> againſt the dictates of their own <hi>Conſciences;</hi> though holding forth and agreeing in <hi>Funda<g ref="char:EOLhyphen"/>mentalls</hi> warranted by <hi>Scripture.</hi>
+            </p>
+            <p n="3">3. Upon the whole, to have a thorough-<hi>Reformation</hi> of <hi>Religion, Laws,</hi> and <hi>Manners.</hi> And to have <hi>Prophaneneſs, Licentiouſneſſe,</hi> and <hi>Looſeneſſe</hi> of Converſation diſcountenanced and ſuppreſſed; and true <hi>Piety, Sobriety,</hi> and <hi>Up<g ref="char:EOLhyphen"/>rightneſſe</hi> of <hi>Converſation, Righteouſneſſe</hi> and <hi>Peace,</hi> encouraged and main<g ref="char:EOLhyphen"/>tained.</p>
+            <p n="4">4. And laſtly, to have the <hi>Militia</hi> of the <hi>Nation</hi> ſecured and diſpoſed of in ſuch Hands, as might exerciſe the ſame for the <hi>Defence</hi> and <hi>Common Preſervation</hi> of our <hi>Lives, Liberties, Rights</hi> and <hi>Proprieties.</hi> And to prevent the future uſe thereof, for the <hi>introducing</hi> and ſupport of <hi>Tyranny, Slavery,</hi> and <hi>Arbitrarineſſe</hi> in matters <hi>Civil</hi> and <hi>Spiritual,</hi> ſo highly attempted by the late <hi>King</hi> and his <hi>Party.</hi>
+            </p>
+            <p>And it pleaſed the <hi>Lord</hi> of <hi>Hoaſts</hi> (after many ſharp <hi>Conteſts</hi> and <hi>bloudy Bat<g ref="char:EOLhyphen"/>tels</hi> fought betwixt the <hi>King</hi> and <hi>Pa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>liament</hi> concerning the premiſſes) to decide the Quarrel on the <hi>Parliaments</hi> ſide, by the total <hi>vanquiſhing</hi> of the <hi>King</hi> and his <hi>Party;</hi> whereby the <hi>Parliament</hi> (who could by no other means prevail with the <hi>King</hi> to a reaſonable <hi>Condiſcention</hi> to the juſt things <hi>demanded</hi> from him) were now by the hand of <hi>Providence</hi> put in a capacity (without him) to effect the ſame, and accompliſh the premiſſes; being the earneſt and longing deſires and fervent prayers of the <hi>good People</hi> of the <hi>Nation,</hi> who freely hazarded their Lives and Fortunes in this <hi>Good Old Cauſe,</hi> which no <hi>good Man</hi> hath cauſe to <hi>renounce,</hi> or be <hi>aſhamed</hi> of. We ſay <hi>GOOD,</hi> Becauſe it hath a tendency to the advancing of <hi>Gods glory,</hi> the <hi>maintenance</hi> and <hi>Reformation</hi> of the <hi>Eſſentials</hi> and <hi>Body</hi> of <hi>Religion</hi> in its <hi>purity</hi> according to the <hi>Word of God,</hi> in oppoſition to <hi>Popery, Atheiſm, Superstition</hi> and <hi>Prophaneneſs;</hi> and the ſecuring of the Peoples juſt <hi>Rights, Liberties, Properties, Priviledges</hi> and <hi>Immunities,</hi> againſt <hi>Tyranny, Arbitrarineſs,</hi> and <hi>Oppreſsion.</hi>
+            </p>
+            <p>
+               <hi>OLD,</hi> Becauſe Anciently and Originally all <hi>Power</hi> was in the <hi>People;</hi> and the deſign of ſetting up all <hi>Governments</hi> and <hi>Governours,</hi> was alwayes profeſſed for the <hi>good</hi> of the <hi>People,</hi> who primarily had the power and choice of Electing both. But loſt it by the <hi>craft, policy,</hi> and <hi>ſiniſter contrivances</hi> of <hi>aſpiring-per<g ref="char:EOLhyphen"/>ſons,</hi> whoſe <hi>Ambition</hi> reached as high as the <hi>Heavens,</hi> and their <hi>pride</hi> would admit of no <hi>Equal</hi> on <hi>Earth.</hi>
+            </p>
+            <p>The regaining our Liberties and Rights, and the re-inveſting the <hi>Supream Authority</hi> in the <hi>Peoples Repreſentatives</hi> in Parliament, hath for many ſcores of years been the great <hi>deſires</hi> of the <hi>good people</hi> of this <hi>Nation,</hi> to accompliſh the ends aforeſaid, being wearied with the former <hi>Oppreſsion and Slavery,</hi> under <hi>Kings, Lords,</hi> and <hi>B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhops:</hi> which long before the late <hi>Warrs</hi> many thouſands of the <hi>Nations</hi> would (which many of them often <hi>declared</hi> and <hi>ſuff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>red for it</hi>) wil<g ref="char:EOLhyphen"/>lingly have ſhaken off, but could not effect the ſame, untill it pleaſed the <hi>Lord</hi> out of his <hi>Almighty providence</hi> (after the total <hi>ſuppreſsing</hi> of the power and intereſt of that <hi>party</hi> in theſe <hi>Nations</hi>) to put it into the hearts of that <hi>good old Parliament,</hi> to ſettle the <hi>Government</hi> in the way of a FREE STATE; which ſort of <hi>Gove<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nment</hi> is neither New nor Strange, The <hi>Venetians</hi> (the <hi>Bull<g ref="char:EOLhyphen"/>wark
+<pb n="3" facs="tcp:94142:2"/> of Chriſtendome</hi>) having for many hundreds of years lived <hi>happily</hi> and <hi>Victoriouſly</hi> in the way of a <hi>Common-wealth.</hi> And our Neighbours the <hi>States of Holland,</hi> ſince they ſhook off the <hi>Spaniſh Yoake,</hi> have lived very <hi>plentifully and comfortably,</hi> and highly improved their <hi>Trade</hi> and <hi>Intereſt,</hi> whoſe <hi>freedome</hi> in the Exerciſe of their <hi>Religion,</hi> doth in no ſort <hi>obſtruct</hi> or <hi>diſturb</hi> the <hi>Govern<g ref="char:EOLhyphen"/>ment</hi> or <hi>peace</hi> of that <hi>State.</hi> Nor would it probably prove otherwiſe in this <hi>Nation,</hi> if once the peoples <hi>Spiritual</hi> and <hi>Civil Rights, Liberties</hi> and <hi>Proprieties,</hi> were effectually ſettled and eſtabliſhed. So that this <hi>Good Old Cauſe</hi> is of far longer ſtanding, and hath its eſſence and beginning before the ten years times prefixed in a late printed paper, and long before the Author or his great Grand<g ref="char:EOLhyphen"/>father were born.</p>
+            <p>And in order to the ſecuring the ends of this <hi>Good Old Cauſe,</hi>
+               <note place="margin">See their Declara<g ref="char:EOLhyphen"/>tion of 17 <hi>March.</hi> 1648.</note> the <hi>Parliament</hi> Declared the Grounds of their late proceedings; And of ſettling the <hi>Government</hi> in the way of a FREE STATE: Which being ſeriouſly conſidered, is ſufficient to ſatisfie every honeſt conſcientious well-affected man touching that affair. The Office of <hi>Kingly Power,</hi> or under any other Name in a <hi>ſingle Per<g ref="char:EOLhyphen"/>ſon,</hi> being well weighed, and the <hi>Vaſte Charge</hi> to ſupport it, and the manner and exerciſe thereof in theſe Nations duly conſidered, will appear to have ſerved moſtly to ſatisfie their own boundleſs <hi>Ambition, Pride,</hi> and <hi>Cruelty, grinding</hi> the faces of the <hi>people,</hi> and <hi>prodigally</hi> ſpending <hi>Chriſtian Bloud,</hi> and the <hi>Treaſure</hi> of the <hi>Nations</hi> upon <hi>punctillioes</hi> of <hi>Honour,</hi> perſonal <hi>Titles,</hi> and particular <hi>revenge</hi> and <hi>diſlaſtes,</hi> and other ſiniſter ends, under pretence of <hi>State-Policy;</hi> Aſſuming to themſelves that <hi>Supremacy</hi> in all matters, which none may queſtion, much leſſe puniſh, how <hi>illegal, arbitrary,</hi> or <hi>unwarrantable</hi> ſoever their actions may be. And their greedy <hi>Courtiers, attendants</hi> and <hi>adherents</hi> trampling upon, and op<g ref="char:EOLhyphen"/>preſſing the <hi>Gentry</hi> and poor <hi>Commonalty</hi> with their new invented <hi>Rates, Taxes,</hi> and <hi>Monopolies</hi> of all ſorts, and other <hi>Court-Inventions, Cum privilegio.</hi> And their Courts have been frequently obſerved to be the <hi>Patterns, Nurſeries,</hi> and <hi>protectors</hi> of <hi>covetouſneſſe, pride, ambition,</hi> and <hi>looſeneſſe.</hi> The Exceſſe of the Court, their relations and attendants, proving an intolerable charge and burthen on the <hi>People.</hi>
+            </p>
+            <p>The <hi>Ends and Deſigns</hi> for which the <hi>Long Parliament</hi> did thus change the <hi>Government</hi> from this <hi>Tyranny,</hi> into a <hi>Free-State,</hi> appears in their ſaid printed <hi>Declaration,</hi> to be,</p>
+            <p n="1">1. <hi>To prevent a new and further expence and effuſion of the Trea<g ref="char:EOLhyphen"/>ſure and Blood of</hi> England.</p>
+            <p n="2">2. <hi>To eſtabliſh a firm and ſafe peace and an oblivion of all Rancor and ill-Will occaſioned by the late troubles: The eſtabliſhing the Go<g ref="char:EOLhyphen"/>vernment in any one ſingle Perſon or Family, under what name or qua<g ref="char:EOLhyphen"/>lification ſoever, ſerving only to intayle a war on us and our posterities, to maintain perſonall intereſts, inconſistent with the good and welfare of the Nation.</hi>
+            </p>
+            <p n="3">3. <hi>To provide for the due Worſhip of God according to his word, the advancement of the true protestant Religion, and for the liberall and certain maintenance of godly Ministers.</hi>
+            </p>
+            <p n="4">4. <hi>To procure a juſt Liberty for the Conſciences, Perſons, and Eſtates of all men conformable to God's glory and their own peace.</hi>
+            </p>
+            <p n="5">
+               <pb n="4" facs="tcp:94142:3"/>5. <hi>To endeavour vigorouſly the puniſhment of the cruell Murthe<g ref="char:EOLhyphen"/>rers in</hi> Ireland, <hi>the reſtoring of the honeſt Protestants and this Com<g ref="char:EOLhyphen"/>monwealth to their rights there, and the full ſatisfaction of all En<g ref="char:EOLhyphen"/>gagements for this work.</hi>
+            </p>
+            <p n="6">6. <hi>To provide for the ſetling and juſt obſerving of Treaties and Alliances with forraign Princes and States, for the encouragement of Manufactures, for the increaſe and flouriſhing of Trades at home, and the maintenance of the poor in all places of the Land.</hi>
+            </p>
+            <p n="7">7. <hi>To take care for the due Reformation and Adminiſtration of the Law and publique Juſtice, that the evill may be puniſhed and the good rewarded.</hi>
+            </p>
+            <p n="8">8. <hi>To order the Revenue in ſuch a way that the publique charges may be defrayed, the ſouldiers Pay juſtly and duely ſetled; that free quarter may be wholly taken off, the People be eaſed in their Burthens and Taxes, and the debts of the Commonwealth be juſtly ſatisfied.</hi>
+            </p>
+            <p n="9">9. <hi>To remove all grievances and oppreſſions of the People, and to eſtabliſh peace and righteouſneſſe in the Land.</hi>
+            </p>
+            <p>The <hi>Parliament</hi> paſſed an <hi>Act,</hi> for the aboliſhing of the <hi>Houſe of Lords,</hi> that <hi>grand Badge</hi> and Relique of the <hi>Norman Conqueſt,</hi>
+               <note place="margin">19. March, 1648.</note> which ſerved only for a <hi>Nega<g ref="char:EOLhyphen"/>tive voyce</hi> againſt the Peoples <hi>juſt rights</hi> and <hi>liberties,</hi> being the great <hi>obſtructors</hi> of <hi>good Lawes,</hi> and <hi>ſupportors</hi> of the <hi>arbitrary unlimited will and pleaſure of Princes.</hi>
+            </p>
+            <p>It was <hi>Enacted,</hi>
+            </p>
+            <p>
+               <note place="margin">19. May, 1649.</note>
+               <hi>That the People of</hi> England, <hi>and of all the Dominions and Territories thereto belonging, be conſtituted, made, eſta<g ref="char:EOLhyphen"/>bliſhed and confirmed to be a</hi> Common-wealth <hi>and</hi> Free State, <hi>and ſhall he henceforth governed as a</hi> Common-wealth <hi>and</hi> Free S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ate, <hi>by the Supreme Authoritie of the Nation, the Pre<g ref="char:EOLhyphen"/>ſentators of the People in</hi> Parliament, <hi>And by ſuch as they ſhall appoint Officers and Miniſters of the good of the People, And that</hi> WITHOUT ANY KING OR HOUSE OF LORDS.</p>
+            <p>
+               <note place="margin">14. May, 1649.</note>And it was Enacted, <hi>That if any perſon ſhall malitiouſly publiſh by writing, printing, or openly declaring, that the</hi> Government of the People, <hi>by its own</hi> Repreſentatives, <hi>or Na<g ref="char:EOLhyphen"/>tionall méetings in Councel, is</hi> Tyrannicall uſurped or unlawful: <hi>Or that the</hi> Commons in Parliament Aſſembled, <hi>are not the</hi> Supreme Authority <hi>of the Nation: Or plot, contrive, or endeavour to</hi> raiſe force <hi>againſt the preſent</hi> Government, <hi>or the</hi> ſubverſion <hi>or</hi> alteration of the ſame: <hi>And ſhall declare the ſame by an open Déed, every ſuch offence ſhall be adjudged</hi> HIGH-TREASON. Which Acts are yet unrepealed.</p>
+            <pb n="5" facs="tcp:94142:3"/>
+            <p>That the Parliament (though they were <hi>famous</hi> for their <hi>Heroick and worthy Acts</hi>) not giving ſatisfaction to all men in all things, were by ſome (as is con<g ref="char:EOLhyphen"/>ceived unadviſedly) interrupted 20 <hi>April,</hi> 1655. who have many of them ſince (on ſerious conſideration of the ill conſequence thereof, and the hidden deſigns and private ends of ſome amongſt them,) heartily repented them thereof, and openly confeſſed and declared the ſame, and their other <hi>backſlidings</hi> and <hi>fallings off,</hi> from that <hi>good old Cauſe.</hi>
+            </p>
+            <p>By reaſon of which <hi>interruption,</hi> the <hi>Parliament</hi> were <hi>obſtructed</hi> and <hi>diſ-ena<g ref="char:EOLhyphen"/>bled</hi> from accompliſhing the <hi>good things</hi> hoped for and by them promiſed and in<g ref="char:EOLhyphen"/>tended to have been wrought for the <hi>People.</hi>
+            </p>
+            <p>And ſince that time, What great <hi>changes</hi> have hapned both in the <hi>Government</hi> and <hi>Governours?</hi> what daubings with <hi>untempered mo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ter,</hi> and <hi>flattering applicati<g ref="char:EOLhyphen"/>ons</hi> have been made, and apparent <hi>violations</hi> of all former <hi>Oaths, Covenants, Promiſes, Declarations</hi> and <hi>Ingagements,</hi> deſerting of their <hi>good old Profeſsions and Principles,</hi> even by many who before were eminent and precious men, for their <hi>piety and integrity?</hi> And all to patch a <hi>Government diſtastful</hi> and <hi>abominable</hi> to <hi>God</hi> and <hi>good men;</hi> and ſo repugnant to the <hi>Judgements, Conſciences</hi> and <hi>af<g ref="char:EOLhyphen"/>fections</hi> of the honeſt <hi>well affected, unbiaſſed people</hi> of the <hi>Nations</hi> and this <hi>good old Cauſe,</hi> that their ſpirits were <hi>grieved</hi> and <hi>tormented;</hi> their hearts <hi>trembled,</hi> their bowels did <hi>yearn</hi> within them for theſe great <hi>abominations,</hi> and high <hi>breach</hi> of <hi>faith</hi> and <hi>truſt</hi> committed in the face of the <hi>Nation:</hi> who by the <hi>ambitious</hi> and <hi>covetous deſigns</hi> of <hi>carnall</hi> men, diſpleaſing to <hi>God,</hi> are brought low, the <hi>Trade, Treaſure,</hi> and <hi>Honour</hi> of the <hi>Nation</hi> being decayed, loſt, and exhauſted, and ex<g ref="char:EOLhyphen"/>ceſſive debts contracted on them.</p>
+            <p>But to adde <hi>iniquity</hi> to ſin, and <hi>aggravate</hi> theſe their <hi>tranſgreſsions,</hi> How many <hi>godly, honeſt</hi> and <hi>w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll-affected</hi> people, have been ſince perſecuted, impriſoned, <hi>executed, baniſhed,</hi> and <hi>oppreſſed</hi> for a <hi>good Conſcience;</hi> their Goods and E<g ref="char:EOLhyphen"/>ſtates taken from them, contrary to the known <hi>Lawes</hi> of the <hi>Nation,</hi> and <hi>liber<g ref="char:EOLhyphen"/>ties of the People,</hi> which the <hi>Actors</hi> thereof ſo often <hi>vowed, promiſed</hi> and <hi>de<g ref="char:EOLhyphen"/>clared</hi> to maintain.</p>
+            <p>What <hi>Inquiſitors</hi> were ſet-up to block up and obſtruct the wayes of the <hi>righte<g ref="char:EOLhyphen"/>ous;</hi> How many men of looſe <hi>principles and carnal ends,</hi> were approved and in<g ref="char:EOLhyphen"/>truſted with the work of the <hi>Miniſtry;</hi> How many good men put by, and their mouthes ſtopped? And how many wayes were uſed to ſuppreſs the <hi>Good old Cauſe,</hi> and the reall pro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſſors and patterns of true Religion and Piety: We leave it to the good people of the Nation to judge of. The Lord having eminently born witneſs, and teſtified his high diſpleaſure againſt theſe <hi>iniquities and abomi<g ref="char:EOLhyphen"/>nations.</hi>
+            </p>
+            <p>And that which is <hi>wonderful</hi> in the eyes of all men, With what <hi>violence</hi> and <hi>inconſiderateneſs</hi> the LAWYERS and other <hi>diſaffected ambitious perſons</hi> in the late <hi>Parliament,</hi> did carry on the Deſign of <hi>Kingſhip:</hi> And the re-eſta<g ref="char:EOLhyphen"/>bliſhing of <hi>King, Lords</hi> and <hi>Biſhops,</hi> tending to the re-inveſting of <hi>Charls Stuart,</hi> and his party. How ready they were to give away the <hi>Militia, Strength and Trea<g ref="char:EOLhyphen"/>ſure of the Nation,</hi> into the hands of a <hi>ſingle-Perſon,</hi> contrary to the aforeſaid <hi>Act</hi> and all fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mer <hi>Declarations, Propoſitions,</hi> and <hi>Ingagements,</hi> pleading for, and earneſtly contending to <hi>inſlave</hi> themſelves and their <hi>Poſterity.</hi> And at one breath, to give away all the <hi>rights, freedoms</hi> and <hi>liberties</hi> of the <hi>People,</hi> which during many years <hi>Warre</hi> with the price of ſo much <hi>Blood</hi> and <hi>Treaſure</hi> they had gained.</p>
+            <p>But the <hi>Lord our God</hi> having ſtirred your Spirits to put a ſtop to theſe <hi>exor<g ref="char:EOLhyphen"/>bitant</hi> and <hi>unſafe proceedings,</hi> and once more to give the opportunity to <hi>advance</hi>
+               <pb n="6" facs="tcp:94142:4"/> the <hi>Kingdom of Chriſt,</hi> To <hi>propagate</hi> the <hi>Goſpel,</hi> and to countenance and ſupport the <hi>profeſsion and profeſſors thereof,</hi> To repair and <hi>heal our breaches,</hi> To regu<g ref="char:EOLhyphen"/>late the <hi>Lawes</hi> and Courts of <hi>Juſtice,</hi> And by <hi>Gods</hi> aſſiſtance, to lay a ſure <hi>foun<g ref="char:EOLhyphen"/>dation,</hi> for the future <hi>intailing</hi> and <hi>ſecuring</hi> of our <hi>Civil and Spiritual rights</hi> to us and our <hi>Poſterity,</hi> that we and they may have cauſe to pray for you, and God may bleſſe and proſper your <hi>undertakings.</hi> And having conſidered the pre<g ref="char:EOLhyphen"/>ſent extraordinary <hi>viciſsitudes,</hi> And that moſt rational men, acknowledge the <hi>Legiſlative power,</hi> is <hi>primarily</hi> and <hi>originally</hi> in the People; for whoſe only mu<g ref="char:EOLhyphen"/>tuall good, all <hi>Lawes and Governments</hi> ought to be conſtituted according to that good old Maxime, <hi>Salus populi ſupremalex.</hi>
+            </p>
+            <p>And all perſonal and private advantages and promotions in competition there<g ref="char:EOLhyphen"/>with, ought to be layd aſide, and wholly put out of <hi>remembrance,</hi> And every in<g ref="char:EOLhyphen"/>dividual perſon ought to ſtudy the <hi>general peace, welfare,</hi> and <hi>comfort</hi> of the <hi>whole,</hi> Give us leave then in all meekneſs and humility of Spirit, to lay theſe things before you, as ſo many <hi>mementoes</hi> of <hi>former actions,</hi> that you may there<g ref="char:EOLhyphen"/>by avoid the like <hi>evill,</hi> and prevent thoſe <hi>inconveniences</hi> which muſt conſequent<g ref="char:EOLhyphen"/>ly attend all <hi>private</hi> and <hi>ſiniſter reſpects,</hi> repugnant to the <hi>publique,</hi> having no cauſe to be <hi>jealous</hi> of your <hi>integrity.</hi> But the ſad conſideration of the <hi>failings</hi> and total <hi>fallings</hi> away of many <hi>pious</hi> and <hi>worthy</hi> perſons that went before you, whoſe wings were <hi>clogged,</hi> and themſelves <hi>inſnared</hi> with the worldly temp<g ref="char:EOLhyphen"/>tation of Satan to our Saviour, who have preferred and embraced an <hi>Earthly Ta<g ref="char:EOLhyphen"/>bernacle,</hi> before the <hi>Eternal Kingdom</hi> of Heaven; we have better hopes of you. And our prayers ſhall not ceaſe to the <hi>Lord,</hi> that your <hi>zeal</hi> and <hi>affection</hi> to his people, may not be abated for any terreſtrial Concernments.</p>
+            <div type="part">
+               <head>Propoſalls for future peace and ſettlement of the Nations.</head>
+               <p n="1">1 That the <hi>long Parliament,</hi> ſo, as aforeſaid, interrupted in their proceedings, who ſetled the Government in the way of a <hi>Free State,</hi> may be forthwith conve<g ref="char:EOLhyphen"/>ned and re-eſtabliſhed. And for that purpoſe, The Army and other good people of the Nation, would declare to ſtand by, and protect them in order to an ef<g ref="char:EOLhyphen"/>fectual ſettlement of the good things by them promiſed and held forth to the People in their ſaid Declaration of the 17th of <hi>March,</hi> 1648. And for further proviſion to be made, as may conduce to the peace and welfare of the Nations, being the moſt viſible remaining Authority, and moſt probable perſons to effect the ſame, ſince the late Warres for the publique ſatisfaction of all perſons, forms, and degrees of men in theſe Nations.</p>
+               <p n="2">2. That all others of the long <hi>Parliament,</hi> that ſhall concur with them in re<g ref="char:EOLhyphen"/>ducing the Government, in the way of <hi>Free State;</hi> And ſhall ſubſcribe to, and own their and the Armies proceedings againſt the late King and his party, be af<g ref="char:EOLhyphen"/>terwards admitted, and all vacant places filled.</p>
+               <p n="3">3 That after ſuch ſettlement, an Act may be paſſed for an equal Repreſen<g ref="char:EOLhyphen"/>tative and diſtribution of Elections for the future, with ſitting qualifications and proviſions for the future ſecuring of our peace, rights, liberties and privi<g ref="char:EOLhyphen"/>ledges.</p>
+               <p n="4">4 That the Militia of the Nation may be intruſted in the hands of perſons well affected to the Nation, and the Intereſt of a Free State.</p>
+               <p n="5">5 That all Malignants and perſons ill affected to this ſettlement that have crept into places military or civil, may be amoved. And that thoſe Officers and
+<pb n="7" facs="tcp:94142:4"/> Souldiers, that for their integrity to this <hi>Good old Cauſe,</hi> or for a good Conſci<g ref="char:EOLhyphen"/>ence have been put out, may be ſpeedily reſtored.</p>
+               <p n="6">6 That the Lawes and exhorbitances of Courts of Juſtice and Offices, may be regulated, and the People eaſed from the obſtructions, charge, and delayes in Law proceedings.</p>
+               <p n="7">7 That the Arreares of the Army and Navy, may be payd, and for the future ſecured. And that no perſon be diſplaced in an arbitrary manner as formerly, without due ſummons, examinations, and other legall proceedings againſt them, according to the Lawes, Martial and Civil.</p>
+               <p n="8">8 That proviſion be made for tender Conſciences, and others differing in matters of form, and they freed from the former perſecutions.</p>
+               <p n="9">9 That an Act of Indempnity and Pardon, may be made for the Officers and Souldiers of the Army; and others that have legally acted in publique places, ſuitable to the nature and exigency of thoſe affaires.</p>
+               <p n="10">10 That effectual meanes be uſed, to beget and continue peace, and a right underſtanding betwixt Us and our Neighbour-Nations, hereby Trade and Com<g ref="char:EOLhyphen"/>merce may be encouraged and maintained, being almoſt loſt and decayed, to the ruine of many Merchants and Families.</p>
+            </div>
+            <div type="part">
+               <head>Propoſalls for raiſing of monies.</head>
+               <p n="1">1 That a grand Committee be appointed, and a ſub-Committee authorized in every County, to examine and take the accompts of all Committees, Commiſſi<g ref="char:EOLhyphen"/>oners, Exciſemen, Treaſurers, Receivers, Farmers and Collectors of the publique monies and Revenues belonging to the State, many ſober knowing men, being or opinion, that there remains above 100000 <hi>l.</hi> unaccompted for, out of the Tithes and Church-livings in <hi>Wales,</hi> which was in great meaſure diſcovered, and under examination in the laſt Parliament.</p>
+               <p n="2">2 That either the Fees and Salaries of the grand Officers belonging to the re<g ref="char:EOLhyphen"/>ſpective Courts of the Nation may be retrenched and regulated. Or rather, an yearly Mulct impoſed on them, ſuitable to the profits of their places, to continue untill the publique debts of the Nation be payd.</p>
+               <p n="3">3 That the Fees of the grand Officers of the Army, and of other publique im<g ref="char:EOLhyphen"/>ployments, may be likewiſe retrenched, until the publique debts and arrears of the Army and Navy be payd. And that Companies and Troops ſhall conſiſt of full numbers, <hi>viz.</hi> each Company 120 beſides Officers; &amp; every Troop 100. And that ſuperfluous Officers may be ſpared, to eaſe the burthen of the Common-wealth, which ſeemes but reaſonable in time of peace, and otherwiſe provided for, and incouraged in publique imployments.</p>
+               <p n="4">4 That ſuch eminent and wealthy perſons, who were the chief and main In<g ref="char:EOLhyphen"/>ſtruments, in altering the Government from a Free State, and ſupporting the ſame, ſuch who have been inſtrumentall in oppreſſing the Nation, and exerciſing Tyranny and arbitrarineſs on the good people, and Inhabitants thereof, and have otherwiſe contributed to the great wrongs and grievances impoſed on the Nation and every individual member thereof, in miſleading and miſguiding the Army and others the honeſt well-meaning people of the Nation; And ſuch as have endea<g ref="char:EOLhyphen"/>voured, or effected the betraying of our Lawes, Liberties, and Priviledges, in mat<g ref="char:EOLhyphen"/>ters civil and ſpiritual; and the ſetting up of Kingſhip, or the Powers military or civil, in one ſingle perſon, contrary to the aforeſaid Acts, for ſettling the Go<g ref="char:EOLhyphen"/>vernment in the way of a Free State, may be ſined to the value of the 3d, or at
+<pb n="8" facs="tcp:94142:5" rendition="simple:additions"/> leaſt the 5th part of their Eſtates reall and perſonal, towards the pay of the Ar<g ref="char:EOLhyphen"/>my and Navy, and defraying of other publique charges of the Nation. And an Act of Pardon and Indempnity for the reſt, which is both favourable and moderate, ſince it is humbly conceived, they have forfeited their lives and E<g ref="char:EOLhyphen"/>ſtates, by the ſtrictneſs of thoſe Acts of the 14th and 19th <hi>March,</hi> 1648. And many of the offendors have gained vaſt Eſtates by the late Warres and other publique Imployments.</p>
+            </div>
+            <div type="part">
+               <head>Before we leave you, and you deſert us, you are deſired to conſider,</head>
+               <p n="1">1. THe Potency and Multitude of the <hi>Enemies</hi> at home and abroad, The In<g ref="char:EOLhyphen"/>tereſt of the Family of the <hi>Stuarts;</hi> The <hi>Treaties, Peace, Confederacion</hi> and <hi>Alliances</hi> of Forreign <hi>Princes</hi> and <hi>States</hi> whom you have diſobliged; and by your <hi>Diviſions</hi> and <hi>unſettledneſſe</hi> rendred your ſelves almoſt uncapable of <hi>Treaties</hi> and Accommodation of <hi>Peace;</hi> your <hi>Faith, Credit,</hi> and <hi>Stedfaſtneſſe</hi> of your Reſolutions being doubted as well by your <hi>Friends</hi> as <hi>Foes.</hi>
+               </p>
+               <p n="2">2. If you return to the <hi>Petition and Advice,</hi> do you not give your late <hi>Repre<g ref="char:EOLhyphen"/>ſentation and Addreſſe</hi> a deniall? Have you done well to break the laſt <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> to aſſert the <hi>Good Old Cauſe,</hi> and immediately after trample it under your feet; and wholly to deſert your friends and principles, who will leave you and your <hi>ſingle Intereſt</hi> and <hi>Family</hi> to periſh in your own ſelf-ſeeking wayes? Muſt you not then call another Parliament? and will they anſwer your expectations? or rather Chaſtiſe you for diſſolving the laſt, and wholly disband you.</p>
+               <p n="3">3. Can the Intereſt of a <hi>ſingle Family</hi> in oppoſition to the <hi>Stuarts,</hi> long ſub<g ref="char:EOLhyphen"/>ſiſt? Will not the Intereſt of a <hi>Free-State</hi> more probably ſupport and preſerve us in <hi>peace,</hi> and anſwer the ends of the <hi>Warr,</hi> and the preſſing Deſires of the People; whoſe general good and Intereſt will be involved therein, and every man bound to venture life and fortune to maintain it; even the Cavalier, who in <hi>honour</hi> and <hi>honeſty</hi> cannot be either compelled or perſwaded to ſet up and ſupport one Family-Intereſt againſt the other, who may have more of Law, Right and Reaſon on his ſide, and many <hi>Oaths</hi> to Oblige them thereto; which will not be ſo, if you eſtabliſh a <hi>Free-State.</hi>
+               </p>
+               <p n="4">4. Do you not find the Judgments, Affections, and Deſires of the generality of the good People for a <hi>Free-State;</hi> And the <hi>Nobility, Gentry,</hi> and <hi>Commonalty</hi> againſt a <hi>ſingle Perſon</hi> and the <hi>Other Houſe,</hi> which is ſo obnoxious to all men, both for its Conſtitution and Qualification.</p>
+               <p n="5">5. Will you adventure to ſet up a <hi>Councel, Senate,</hi> or <hi>Parliament</hi> of your own nomination which you may as eaſily pull down, new modell, and change? and can you imagine this <hi>Nation</hi> will ſubmit to ſuch <hi>arbitrary</hi> proceedings, and be go<g ref="char:EOLhyphen"/>verned by the ſole power of a Confuſed unſettled Army?</p>
+               <p n="6">6. For your own and the Nations Common preſervation, give life and motion to the Convention of the <hi>Long Parliament,</hi> as the onely refuge left for you and us, under God, and the ſole <hi>Chirurgions</hi> that can cure and heal our diſeaſes: Delayes are dangerous.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
